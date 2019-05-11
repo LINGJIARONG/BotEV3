@@ -1,0 +1,13 @@
+#System files
+.DS_Store
+
+#IntelliJ
+*.iml
+.idea/
+
+# Downloaded libraries
+/leJOS*
+
+# Generated files
+/build
+*.jar
